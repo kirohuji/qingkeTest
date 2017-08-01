@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+	<animal animalClass="mammal">
+		<name>Song Fang</name>
+		<species>Giant Panda</species>
+		<habiat>China</habiat>
+		<food>Bamboo</food>
+		<temperament>Friently</temperament>
+		<weight>45.0</weight>
+	</animal>
+	<animal animalClass="mammal">
+		<name>Gorilla Chow</name>
+		<foodRecipe>
+			<ingredient>fruit</ingredient>
+			<ingredient>shoots</ingredient>
+			<ingredient>leaves</ingredient>
+		</foodRecipe>
+		<temperament>Know-it-all</temperament>
+		<weight>45.0</weight>
+	</animal>
+</inventory>

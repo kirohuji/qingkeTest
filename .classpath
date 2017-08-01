@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/zyd/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/zyd/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/zyd/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/zyd/log4j-api-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/zyd/log4j-core-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/zyd/mysql-connector-java-5.1.42/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="D:/zyd/netty-all-4.1.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/zyd/qingke/lib/mybatis-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/zyd/qingke/lib/mysql-connector-java-5.1.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
